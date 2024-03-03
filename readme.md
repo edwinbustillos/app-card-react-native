@@ -3,9 +3,11 @@
 Este projeto é um aplicativo de cartão de visita desenvolvido com React Native e Expo. Ele permite que os usuários visualizem um perfil com uma foto, um campo de texto e links para as redes sociais LinkedIn, GitHub e e-mail.
 
 ### Screenshots
+<p float="left">
 <img src="./assets/1.png" width="250">
 <img src="./assets/3.png" width="250">
 <img src="./assets/2.png" width="250">
+</p>
 
 ## Funcionalidades
 
